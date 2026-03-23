@@ -1,3 +1,7 @@
+
+Question 1
+
+
 # Program to declare variables and display their types
 
 integer_value = 10
@@ -24,6 +28,8 @@ Boolean value: True Type: <class 'bool'>
 
 
 
+Question 2
+
 
 
 # Program to demonstrate type casting
@@ -45,6 +51,9 @@ print("After type casting b:", b, "Type:", type(b))
 
 OUTPUT
 
+
+
+Question 3
 
 Original value of a: 10 Type: <class 'int'>
 Original value of b: 5.5 Type: <class 'float'>
